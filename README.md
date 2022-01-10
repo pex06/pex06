@@ -6,14 +6,14 @@ I'm student at: <a href="https://www.ieslosolivosmejorada.es/"><b>IES Los Olivos
 <br>I'm currently learning about web development.
 
 ### 👨‍💻 Languages and Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-282C34?&style=flat&logoColor=E34F26&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-282C34?style=flat&logoColor=1572B6&logo=css3)
+![JS](https://img.shields.io/badge/-JavaScript-282C34?style=flat&logo=javascript)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-282C34?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-282C34?style=flat&logo=github)
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![VS Code](http://img.shields.io/badge/-VS%20Code-282C34?style=flat&logoColor=007ACC&logo=visual-studio-code)
 
 ### 📈 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pex06)](https://github.com/anuraghazra/github-readme-stats)
